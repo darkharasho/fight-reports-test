@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260127-180943-7a5r",
+    "title": "Birdman Jackman",
+    "commanders": [
+      "Birdman Jackman"
+    ],
+    "dateStart": "2026-01-28T02:09:43.000Z",
+    "dateEnd": "2026-01-28T02:48:02.000Z",
+    "dateLabel": "1/27/2026, 6:09:43 PM - 1/27/2026, 6:48:02 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260127-180943-7a5r",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 10,
+      "avgEnemySize": 37
+    }
+  },
+  {
     "id": "20260127-181506-qet6",
     "title": "Birdman Jackman",
     "commanders": [
