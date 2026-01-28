@@ -1,5 +1,43 @@
 [
   {
+    "id": "20260125-110745-jzzs",
+    "title": "Tilted Illusion",
+    "commanders": [
+      "Tilted Illusion"
+    ],
+    "dateStart": "2026-01-25T19:07:45.000Z",
+    "dateEnd": "2026-01-25T21:58:05.000Z",
+    "dateLabel": "1/25/2026, 11:07:45 AM - 1/25/2026, 1:58:05 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260125-110745-jzzs",
+    "summary": {
+      "borderlandsPct": 0.24242424242424243,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 25,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#10b981"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 37
+    }
+  },
+  {
     "id": "20260126-192414-ufom",
     "title": "Not Haro",
     "commanders": [
