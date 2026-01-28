@@ -1,5 +1,20 @@
 [
   {
+    "id": "20260127-211556-q9rk",
+    "title": "Unknown Commander",
+    "commanders": [],
+    "dateStart": "2026-01-28T05:15:56.713Z",
+    "dateEnd": "2026-01-28T05:15:56.713Z",
+    "dateLabel": "1/27/2026, 9:15:56 PM - 1/27/2026, 9:15:56 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260127-211556-q9rk",
+    "summary": {
+      "borderlandsPct": null,
+      "mapSlices": [],
+      "avgSquadSize": 0,
+      "avgEnemySize": 0
+    }
+  },
+  {
     "id": "20260125-110745-jzzs",
     "title": "Tilted Illusion",
     "commanders": [

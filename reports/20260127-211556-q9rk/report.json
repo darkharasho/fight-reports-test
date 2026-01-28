@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "id": "20260127-211556-q9rk",
+    "title": "Unknown Commander",
+    "commanders": [],
+    "dateStart": "2026-01-28T05:15:56.713Z",
+    "dateEnd": "2026-01-28T05:15:56.713Z",
+    "dateLabel": "1/27/2026, 9:15:56 PM - 1/27/2026, 9:15:56 PM",
+    "generatedAt": "2026-01-28T05:15:56.713Z",
+    "appVersion": "1.6.1"
+  },
+  "stats": {
+    "total": 0,
+    "wins": 0,
+    "losses": 0,
+    "avgSquadSize": 0,
+    "avgEnemies": 0,
+    "squadKDR": "0.00",
+    "enemyKDR": "0.00",
+    "totalSquadKills": 0,
+    "totalSquadDeaths": 0,
+    "totalEnemyKills": 0,
+    "totalEnemyDeaths": 0,
+    "maxDownContrib": {
+      "value": 0,
+      "player": "-",
+      "count": 0,
+      "profession": "Unknown",
+      "professionList": []
+    },
+    "maxCleanses": {
+      "value": 0,
+      "player": "-",
+      "count": 0,
+      "profession": "Unknown",
+      "professionList": []
+    },
+    "maxStrips": {
+      "value": 0,
+      "player": "-",
+      "count": 0,
+      "profession": "Unknown",
+      "professionList": []
+    },
+    "maxStab": {
+      "value": 0,
+      "player": "-",
+      "count": 0,
+      "profession": "Unknown",
+      "professionList": []
+    },
+    "maxHealing": {
+      "value": 0,
+      "player": "-",
+      "count": 0,
+      "profession": "Unknown",
+      "professionList": []
+    },
+    "maxBarrier": {
+      "value": 0,
+      "player": "-",
+      "count": 0,
+      "profession": "Unknown",
+      "professionList": []
+    },
+    "maxCC": {
+      "value": 0,
+      "player": "-",
+      "count": 0,
+      "profession": "Unknown",
+      "professionList": []
+    },
+    "closestToTag": {
+      "value": 0,
+      "player": "-",
+      "count": 0,
+      "profession": "Unknown",
+      "professionList": []
+    },
+    "topSkills": [],
+    "topIncomingSkills": [],
+    "mapData": [],
+    "squadClassData": [],
+    "enemyClassData": [],
+    "timelineData": [],
+    "boonTables": [],
+    "specialTables": [],
+    "offensePlayers": [],
+    "defensePlayers": [],
+    "supportPlayers": [],
+    "healingPlayers": [],
+    "maxDodges": {
+      "value": 0,
+      "player": "-",
+      "count": 0,
+      "profession": "Unknown",
+      "professionList": []
+    },
+    "mvp": {
+      "player": "None",
+      "account": "None",
+      "reason": "No sufficient data",
+      "score": -1,
+      "profession": "Unknown",
+      "professionList": [],
+      "color": "#64748b",
+      "topStats": []
+    },
+    "avgMvpScore": 0,
+    "leaderboards": {
+      "downContrib": [],
+      "barrier": [],
+      "healing": [],
+      "dodges": [],
+      "strips": [],
+      "cleanses": [],
+      "cc": [],
+      "stability": [],
+      "closestToTag": [],
+      "revives": [],
+      "participation": [],
+      "dps": [],
+      "damage": []
+    },
+    "skillUsageData": {
+      "logRecords": [],
+      "players": [],
+      "skillOptions": [],
+      "resUtilitySkills": []
+    }
+  },
+  "logs": []
+}
