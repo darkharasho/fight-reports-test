@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260128-182508-hauz",
+    "title": "Reven The Big Show",
+    "commanders": [
+      "Reven The Big Show"
+    ],
+    "dateStart": "2026-01-29T02:25:08.000Z",
+    "dateEnd": "2026-01-29T02:58:09.000Z",
+    "dateLabel": "1/28/2026, 6:25:08 PM - 1/28/2026, 6:58:09 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260128-182508-hauz",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 41
+    }
+  },
+  {
     "id": "20260128-184544-tazr",
     "title": "Reven The Big Show, Tilted Aegis",
     "commanders": [
