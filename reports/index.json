@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260128-180752-df9m",
+    "title": "Reven The Big Show, Tilted Aegis",
+    "commanders": [
+      "Reven The Big Show",
+      "Tilted Aegis"
+    ],
+    "dateStart": "2026-01-29T02:07:52.000Z",
+    "dateEnd": "2026-01-29T03:04:27.000Z",
+    "dateLabel": "1/28/2026, 6:07:52 PM - 1/28/2026, 7:04:27 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260128-180752-df9m",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 35
+    }
+  },
+  {
     "id": "20260128-180752-iwb4",
     "title": "Reven The Big Show, Tilted Aegis",
     "commanders": [
