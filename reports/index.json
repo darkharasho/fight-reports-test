@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260129-175426-fl6z",
+    "title": "Wag Mawnk",
+    "commanders": [
+      "Wag Mawnk"
+    ],
+    "dateStart": "2026-01-30T01:54:26.000Z",
+    "dateEnd": "2026-01-30T02:57:32.000Z",
+    "dateLabel": "1/29/2026, 5:54:26 PM - 1/29/2026, 6:57:32 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260129-175426-fl6z",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 19,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 44
+    }
+  },
+  {
     "id": "20260129-185609-ssfg",
     "title": "Wag Mawnk",
     "commanders": [
