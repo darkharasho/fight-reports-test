@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260128-185910-zq9k",
+    "title": "Tilted Aegis",
+    "commanders": [
+      "Tilted Aegis"
+    ],
+    "dateStart": "2026-01-29T02:59:10.000Z",
+    "dateEnd": "2026-01-29T03:04:27.000Z",
+    "dateLabel": "1/28/2026, 6:59:10 PM - 1/28/2026, 7:04:27 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260128-185910-zq9k",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 40,
+      "avgEnemySize": 0
+    }
+  },
+  {
     "id": "20260128-185910-mz4r",
     "title": "Tilted Aegis",
     "commanders": [
