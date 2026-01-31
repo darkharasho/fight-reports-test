@@ -1,6 +1,6 @@
 {
-  "id": "Nebula",
-  "label": "Nebula",
-  "rgb": "196, 181, 253",
-  "pattern": "radial-gradient(at 0% 0%, hsla(260, 70%, 18%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(310, 80%, 22%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(240, 60%, 25%, 1) 0, transparent 70%)"
+  "id": "Cobalt",
+  "label": "Cobalt",
+  "rgb": "59, 130, 246",
+  "pattern": "radial-gradient(at 0% 0%, hsla(220, 85%, 18%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(280, 70%, 22%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(200, 80%, 15%, 1) 0, transparent 70%)"
 }
