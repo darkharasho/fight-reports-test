@@ -1,6 +1,6 @@
 {
-  "id": "Cobalt",
-  "label": "Cobalt",
-  "rgb": "59, 130, 246",
-  "pattern": "radial-gradient(at 0% 0%, hsla(220, 85%, 18%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(280, 70%, 22%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(200, 80%, 15%, 1) 0, transparent 70%)"
+  "id": "Sunset",
+  "label": "Sunset",
+  "rgb": "251, 146, 60",
+  "pattern": "radial-gradient(at 0% 0%, hsla(10, 70%, 18%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(330, 60%, 20%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(280, 50%, 25%, 1) 0, transparent 70%)"
 }
