@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260130-180901-pqnn",
+    "title": "Fíbbs",
+    "commanders": [
+      "Fíbbs"
+    ],
+    "dateStart": "2026-01-31T02:09:01.000Z",
+    "dateEnd": "2026-01-31T03:37:41.000Z",
+    "dateLabel": "1/30/2026, 6:09:01 PM - 1/30/2026, 7:37:41 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260130-180901-pqnn",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 18,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 48,
+      "avgEnemySize": 46
+    }
+  },
+  {
     "id": "20260130-191313-sz1r",
     "title": "Fíbbs",
     "commanders": [
