@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260201-184506-plna",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-02-02T02:45:06.000Z",
+    "dateEnd": "2026-02-02T02:58:22.000Z",
+    "dateLabel": "2/1/2026, 6:45:06 PM - 2/1/2026, 6:58:22 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260201-184506-plna",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 4,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 41,
+      "avgEnemySize": 39
+    }
+  },
+  {
     "id": "20260131-195242-1cyd",
     "title": "Dub Grumble",
     "commanders": [
