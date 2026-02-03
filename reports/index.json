@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260201-185103-fd1y",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-02-02T02:51:03.000Z",
+    "dateEnd": "2026-02-02T02:58:22.000Z",
+    "dateLabel": "2/1/2026, 6:51:03 PM - 2/1/2026, 6:58:22 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260201-185103-fd1y",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 3,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 40,
+      "avgEnemySize": 34
+    }
+  },
+  {
     "id": "20260201-185103-nh40",
     "title": "Lightspeed Jack",
     "commanders": [
