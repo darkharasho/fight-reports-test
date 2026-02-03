@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260202-185053-k1ta",
+    "title": "Guardian Kamoidra",
+    "commanders": [
+      "Guardian Kamoidra"
+    ],
+    "dateStart": "2026-02-03T02:50:53.000Z",
+    "dateEnd": "2026-02-03T02:53:39.000Z",
+    "dateLabel": "2/2/2026, 6:50:53 PM - 2/2/2026, 6:53:39 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260202-185053-k1ta",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Alpine Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 42,
+      "avgEnemySize": 44
+    }
+  },
+  {
     "id": "20260202-182453-uy6a",
     "title": "Guardian Kamoidra",
     "commanders": [
