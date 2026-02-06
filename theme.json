@@ -1,6 +1,6 @@
 {
-  "id": "Glacier",
-  "label": "Glacier",
-  "rgb": "125, 211, 252",
-  "pattern": "radial-gradient(at 0% 0%, hsla(190, 70%, 20%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(210, 80%, 25%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(200, 60%, 30%, 1) 0, transparent 70%)"
+  "id": "Emerald",
+  "label": "Emerald",
+  "rgb": "52, 211, 153",
+  "pattern": "radial-gradient(at 0% 0%, hsla(150, 80%, 15%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(140, 90%, 20%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(160, 70%, 25%, 1) 0, transparent 70%)"
 }
