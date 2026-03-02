@@ -1,5 +1,35 @@
 [
   {
+    "id": "20260228-180131-w7gl",
+    "title": "Dub Grumble, Lightspeed Jack, Radiant Harasho",
+    "commanders": [
+      "Dub Grumble",
+      "Lightspeed Jack",
+      "Radiant Harasho"
+    ],
+    "dateStart": "2026-03-01T02:01:31.000Z",
+    "dateEnd": "2026-03-02T01:29:10.000Z",
+    "dateLabel": "2/28/2026, 6:01:31 PM - 3/1/2026, 5:29:10 PM",
+    "url": "https://darkharasho.github.io/fight-reports-test/?report=20260228-180131-w7gl",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 18,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 40,
+      "avgEnemySize": 41
+    }
+  },
+  {
     "id": "20260228-180131-fwg7",
     "title": "Dub Grumble, Radiant Harasho",
     "commanders": [
