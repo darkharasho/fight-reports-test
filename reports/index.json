@@ -1,11 +1,44 @@
 {
   "siteTheme": {
-    "ui": "kinetic",
-    "paletteId": "KineticPaperSlate",
-    "kineticFont": "original",
-    "kineticVariant": "slate"
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "original"
   },
   "entries": [
+    {
+      "id": "20260302-180458-oqtq",
+      "title": "Not Haro, Tilted Valor",
+      "commanders": [
+        "Not Haro",
+        "Tilted Valor"
+      ],
+      "dateStart": "2026-03-03T02:04:58.000Z",
+      "dateEnd": "2026-03-03T07:02:13.000Z",
+      "dateLabel": "3/2/2026, 6:04:58 PM - 3/2/2026, 11:02:13 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260302-180458-oqtq",
+      "summary": {
+        "borderlandsPct": 0.8611111111111112,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 28,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20260302-215736-bhpj",
       "title": "Tilted Valor",
