@@ -7,6 +7,34 @@
   },
   "entries": [
     {
+      "id": "20260302-215736-1i34",
+      "title": "Tilted Valor",
+      "commanders": [
+        "Tilted Valor"
+      ],
+      "dateStart": "2026-03-03T05:57:36.000Z",
+      "dateEnd": "2026-03-03T07:02:13.000Z",
+      "dateLabel": "3/2/2026, 9:57:36 PM - 3/2/2026, 11:02:13 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260302-215736-1i34",
+      "summary": {
+        "borderlandsPct": 0.375,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260302-215736-ds1o",
       "title": "Tilted Valor",
       "commanders": [
