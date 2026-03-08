@@ -136,3 +136,30 @@ body.web-report.theme-matte .stats-view .fight-comp-class-icon--squad {
     background: transparent !important;
     border-color: transparent !important;
 }
+
+/* Pill toggle group: restore inset-neumorphic style (overridden by .bg-white\/5 rule above) */
+body.web-report.theme-matte .pill-toggle-group {
+    background-color: var(--bg-input) !important;
+    box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.5), inset -2px -2px 5px rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid var(--border-default) !important;
+    border-radius: 12px !important;
+}
+
+body.web-report.theme-matte .pill-toggle-option {
+    border: 1px solid transparent !important;
+    color: var(--text-secondary) !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+body.web-report.theme-matte .pill-toggle-option:hover {
+    color: var(--text-primary) !important;
+}
+
+body.web-report.theme-matte .pill-toggle-option--active {
+    background-color: var(--bg-elevated) !important;
+    color: var(--text-primary) !important;
+    box-shadow: -2px -2px 5px var(--matte-light), 2px 2px 5px var(--matte-dark) !important;
+    border: 1px solid var(--border-subtle) !important;
+    border-radius: 8px !important;
+}

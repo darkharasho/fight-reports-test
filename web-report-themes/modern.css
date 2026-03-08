@@ -88,6 +88,21 @@ body.web-report.theme-modern .stats-view .border-red-500\/40 {
     border-color: rgba(248, 113, 113, 0.32) !important;
 }
 
+/* Pill toggle group: undo generic rounded-full→0 and bg-white/5→gradient overrides above */
+body.web-report.theme-modern .pill-toggle-group {
+    background-image: none !important;
+    background-color: rgba(255, 255, 255, 0.05) !important;
+    border-radius: 9999px !important;
+}
+
+body.web-report.theme-modern .pill-toggle-option {
+    border-radius: 9999px !important;
+}
+
+body.web-report.theme-modern .pill-toggle-option--active {
+    border-radius: 9999px !important;
+}
+
 body.web-report.theme-modern .stats-table-shell__head-stack {
     background-color: rgba(255, 255, 255, 0.05) !important;
     box-shadow:
