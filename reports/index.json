@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260319-195330-xy9b",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-03-20T02:53:30.000Z",
+      "dateEnd": "2026-03-20T03:05:33.000Z",
+      "dateLabel": "3/19/2026, 7:53:30 PM - 3/19/2026, 8:05:33 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260319-195330-xy9b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260302-180458-oqtq",
       "title": "Not Haro, Tilted Valor",
       "commanders": [
