@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260417-201311-jti1",
+      "title": "F I B B S",
+      "commanders": [
+        "F I B B S"
+      ],
+      "dateStart": "2026-04-18T03:13:11.000Z",
+      "dateEnd": "2026-04-18T03:44:39.000Z",
+      "dateLabel": "4/17/2026, 8:13:11 PM - 4/17/2026, 8:44:39 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260417-201311-jti1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260417-204333-2xum",
       "title": "F I B B S",
       "commanders": [
