@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260417-204333-3rr4",
+      "title": "F I B B S",
+      "commanders": [
+        "F I B B S"
+      ],
+      "dateStart": "2026-04-18T03:43:33.000Z",
+      "dateEnd": "2026-04-18T03:44:39.000Z",
+      "dateLabel": "4/17/2026, 8:43:33 PM - 4/17/2026, 8:44:39 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260417-204333-3rr4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260411-195154-78ne",
       "title": "Dub Grumble, Mesmer Kamoidra",
       "commanders": [
