@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-193208-7yxd",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-23T02:32:08.000Z",
+      "dateEnd": "2026-08-23T02:47:13.289Z",
+      "dateLabel": "8/22/2026, 7:32:08 PM - 8/22/2026, 7:47:13 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260822-193208-7yxd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 6,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260807-200654-o3kb",
       "title": "Kilo Watts",
       "commanders": [
