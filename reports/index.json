@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-183907-sesv",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-23T01:39:07.000Z",
+      "dateEnd": "2026-08-23T02:47:13.289Z",
+      "dateLabel": "8/22/2026, 6:39:07 PM - 8/22/2026, 7:47:13 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260822-183907-sesv",
+      "summary": {
+        "borderlandsPct": 0.42857142857142855,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260822-193316-fjpo",
       "title": "Dub Grumble",
       "commanders": [
