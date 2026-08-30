@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-191007-vomx",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-30T02:10:07.000Z",
+      "dateEnd": "2026-08-30T02:13:00.157Z",
+      "dateLabel": "8/29/2026, 7:10:07 PM - 8/29/2026, 7:13:00 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260829-191007-vomx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260822-183907-sesv",
       "title": "Dub Grumble",
       "commanders": [
