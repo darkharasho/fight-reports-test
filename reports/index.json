@@ -4,6 +4,45 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260907-184826-qhka",
+      "title": "Not Haro, Prez Ashtonn",
+      "commanders": [
+        "Not Haro",
+        "Prez Ashtonn"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-08T01:48:26.000Z",
+      "dateEnd": "2026-09-08T04:16:16.377Z",
+      "dateLabel": "9/7/2026, 6:48:26 PM - 9/7/2026, 9:16:16 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260907-184826-qhka",
+      "summary": {
+        "borderlandsPct": 0.45161290322580644,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260829-191007-vomx",
       "title": "Dub Grumble",
       "commanders": [
