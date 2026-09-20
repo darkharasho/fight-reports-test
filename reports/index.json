@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-183017-ngem",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-20T01:30:17.000Z",
+      "dateEnd": "2026-09-20T01:44:12.941Z",
+      "dateLabel": "9/19/2026, 6:30:17 PM - 9/19/2026, 6:44:12 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260919-183017-ngem",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260907-204457-ic85",
       "title": "Prez Ashtonn",
       "commanders": [
