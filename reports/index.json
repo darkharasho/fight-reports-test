@@ -5,6 +5,34 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20260920-183055-s56p",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-21T01:30:55.000Z",
+      "dateEnd": "2026-09-21T01:52:00.573Z",
+      "dateLabel": "9/20/2026, 6:30:55 PM - 9/20/2026, 6:52:00 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260920-183055-s56p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260920-183055-h982",
       "title": "Lightspeed Jack",
       "commanders": [
