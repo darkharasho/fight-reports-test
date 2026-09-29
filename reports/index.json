@@ -1,9 +1,41 @@
 {
   "colorPalette": "axi-gold",
+  "glass": true,
   "glassSurfaces": true,
-  "glassmorphic": false,
-  "axiDesign": true,
   "entries": [
+    {
+      "id": "20260926-194522-q4k4",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-27T02:45:22.000Z",
+      "dateEnd": "2026-09-27T03:08:37.472Z",
+      "dateLabel": "9/26/2026, 7:45:22 PM - 9/26/2026, 8:08:37 PM",
+      "url": "https://darkharasho.github.io/fight-reports-test/?report=20260926-194522-q4k4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 59
+      }
+    },
     {
       "id": "20260921-184504-iyln",
       "title": "Not Haro",
